@@ -1,0 +1,35 @@
+{
+  "name": "namaste-reactjs",
+  "version": "1.0.0",
+  "description": "Namaste ReactJS",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RupaliSwami/namaste-reactjs.git"
+  },
+  "author": "Rupali Swami",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RupaliSwami/namaste-reactjs/issues"
+  },
+  "homepage": "https://github.com/RupaliSwami/namaste-reactjs#readme",
+  "devDependencies": {
+    "parcel": "^2.15.4"
+  },
+  "dependencies": {
+    "@tailwindcss/postcss": "^4.1.12",
+    "postcss": "^8.5.6",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1",
+    "react-router": "^7.8.1",
+    "react-router-dom": "^7.8.1",
+    "tailwindcss": "^4.1.12"
+  },
+  "browerslist": [
+    "last 2 versions"
+  ]
+}
